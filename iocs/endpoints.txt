@@ -1,0 +1,7 @@
+/VNUmpvhrfN/api
+/VNUmpvhrfN/api/input
+/ws?token=<uuid>
+/ww_gb_Ticket_temp3/header.html
+/ww_gb_Ticket_temp3/footer.html
+/uploads/*.jpg
+/uploads/*.png
