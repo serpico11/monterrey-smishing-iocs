@@ -1,0 +1,4 @@
+https://monterreygob1.one/mx
+https://monterreygob1.one/VNUmpvhrfN/api
+https://monterreygob1.one/VNUmpvhrfN/api/input
+wss://monterreygob1.one/ws?token=<uuid>
